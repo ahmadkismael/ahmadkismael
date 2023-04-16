@@ -5,9 +5,8 @@
   <a href="https://www.linkedin.com/in/ahmad-ismael-601162244/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://example.com/my-button-link" background-color="grey">My Button Text</a>
 
 </div>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
