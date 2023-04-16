@@ -10,7 +10,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center" background-color="grey">
+<div align="center">
   <p>Nice to meet you! My name is Ahmad Ismael, and I'm not just your average Full-Stack Developer. I'm also an avid traveler, a gym enthusiast, and a hiking enthusiast!
 
 </p>
