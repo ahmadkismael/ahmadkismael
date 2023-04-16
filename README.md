@@ -4,9 +4,9 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ahmad-ismael-601162244/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://ahmadportfolioweb.netlify.app/" style="display: inline-block; padding: 12px 24px; background-color: #007BFF; color: #FFFFFF; text-align: center; text-decoration: none; border-radius: 4px; font-weight: bold;">Portfolio</a>
 </div>
-  [Portfolio]([https://example.com/my-button-link](https://ahmadportfolioweb.netlify.app/))
-<h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
