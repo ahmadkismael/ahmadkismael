@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ahmad-ismael-601162244/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://example.com/my-button-link" style="display: inline-block; padding: 12px 24px; background-color: #808080; color: #FFFFFF; text-align: center; text-decoration: none; border-radius: 4px; font-weight: bold;">My Button Text</a>
+  <a href="https://example.com/my-button-link" style="display: inline-block; padding: 12px 24px; background-color: #808080; color: #FFFFFF; text-align: center; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #000000;">My Button Text</a>
 
 </div>
   hey there
